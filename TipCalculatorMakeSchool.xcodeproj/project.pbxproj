@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					D39BE3DD1DAE8776003B5198 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 9ZE33R343G;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9ZE33R343G;
 				INFOPLIST_FILE = TipCalculatorMakeSchool/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lauraartiles.TipCalculatorMakeSchool;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9ZE33R343G;
 				INFOPLIST_FILE = TipCalculatorMakeSchool/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lauraartiles.TipCalculatorMakeSchool;
